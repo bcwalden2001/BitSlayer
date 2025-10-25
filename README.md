@@ -29,6 +29,6 @@ Download the latest version of LÖVE from the Love2D [website](https://love2d.or
       7) add the path of the LOVE folder
       8) click OK on all the windows (if you don't do this the changes made won't be saved)
 
-         **Now the shortcut above should work.**
+      **Now the shortcut above should work.**
 
 For more information on running on Mac and Linux see [Getting Started](https://love2d.org/wiki/Getting_Started)
