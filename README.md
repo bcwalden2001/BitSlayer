@@ -1,6 +1,6 @@
 ## Pre-requisities:
 
-Download the latest version of LÖVE from the [love2d website](https://love2d.org/#download), and install it.
+Download the latest version of LÖVE from the Love2D [website](https://love2d.org/#download), and install it.
 
 ## Two ways to run the game:
 
@@ -27,7 +27,7 @@ Download the latest version of LÖVE from the [love2d website](https://love2d.or
       5) click Edit
       6) click New 
       7) add the path of the LOVE folder
-      8) click Ok on all the windows (if you don't do this the changes made won't be saved)
+      8) click OK on all the windows (if you don't do this the changes made won't be saved)
 
          **Now the shortcut above should work.**
 
