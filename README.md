@@ -4,7 +4,7 @@ Download the latest version of LÖVE from the Love2D [website](https://love2d.or
 
 ## Two ways to run the game:
 
-1) Drag the game folder onto love.exe inside of the LOVE folder (this will be in the "Program Files" folder on Windows) 
+1) Drag the game folder onto love.exe inside of the LOVE folder (this will be in the "Program Files" folder on Windows or wherever you installed love) 
 
 2) From the command line:
    
