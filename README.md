@@ -18,7 +18,7 @@ Download the latest version of LÖVE from the Love2D [website](https://love2d.or
 
    _This only works when the path of LOVE is added to your system's PATH environment variable_
    
-      To do this on Windows:
+      ### In order to do this:
    
       1) Press the Windows Key
       2) open "Edit the system environment variables" in the control panel
