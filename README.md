@@ -8,7 +8,7 @@ Download the latest version of LÖVE from the Love2D [website](https://love2d.or
 
 2) From the command line:
    
-   a) Using full path, where the first path is the path of love.exe and the second path is the path of the game folder:
+   a) Using full paths, where the first path is the path of love.exe and the second path is the path of the game folder:
 
          & "C:\Program Files\LOVE\love.exe" "C:\BitSlayer"
 
