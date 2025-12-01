@@ -6,17 +6,17 @@ Download the latest version of LÖVE from the Love2D [website](https://love2d.or
 
 1) Drag the BitSlayer game folder onto the love executable inside of the LOVE folder.
 
-2) From the command line:
+2) From a command line:
    
    a) Using full paths, where the first path is the path of love.exe and the second path is the path of the game folder:
 
          & "C:\Program Files\LOVE\love.exe" "C:\BitSlayer"
 
-   b) Using a simple shortcut:
+   b) Using a more concise command:
 
          love .
 
-   _This only works when the path of LOVE is added to your system's PATH environment variable_
+   _This will only work when you are in the project directory and the path of LOVE is added to your system's PATH environment variable_
    
       ### In order to do this:
    
