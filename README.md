@@ -16,7 +16,7 @@ Download the latest version of LÖVE from the Love2D [website](https://love2d.or
 
          love .
 
-   _This will only work when you are in the project directory and the path of LOVE is added to your system's PATH environment variable_
+   _*This will only work when you are in the project directory and the path of LOVE is added to your system's PATH environment variable_
    
       ### In order to do this:
    
